@@ -3,10 +3,7 @@
 ![](https://github.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/blob/main/thoughtworks-gif_dribbble.gif)
 
 <p>
-<img alt="Java" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&   
-  logo=java%2B%2B&logoColor=black" height="50px"/>
-<img alt="mysql" src="https://img.shields.io/badge/sql-F05032?style=flat-square&logo=mysql&
-logoColor=white" height="50px"/>
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vette1123/Insects-Game/total?color=%23F6E7D8&label=Java&logo=Java&logoColor=%23E45826&style=for-the-badge">
 </p>
 
 ## Description:
